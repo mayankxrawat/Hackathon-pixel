@@ -1,0 +1,32 @@
+.head1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    text-align: center;
+    height: 850px;
+    letter-spacing: 10px;
+}
+
+.btn {
+    font-size: 30px;
+    text-align: center;
+    border-radius: 20px;
+    width: 300px;
+    font-family: papyrus;
+    background-color: white;
+} 
+
+body {
+    background-image: url("./../img/wood1.jpg");
+    background-size: cover;
+    font-family: papyrus;
+    
+}
+
+.head {
+     background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+
+}
+
