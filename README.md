@@ -24,7 +24,7 @@ Built with HTML, CSS, and JavaScript, this game includes modern features like ga
 
 HOW TO RUN (IMPORTANT !!!)
 1. Clone or download this repository.
-2. Open `index.home` in your web browser.
+2. Open `home.html` in your web browser.
 3. Enjoy the game!
 
    
